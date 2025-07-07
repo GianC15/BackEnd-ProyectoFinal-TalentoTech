@@ -10,6 +10,10 @@ API RESTful para gestión de **artículos** y **pedidos**, desarrollada con Spri
 
 ---
 
+## 🗄️ Configuración de Base de Datos
+
+El proyecto incluye el archivo `articulos_db.sql` en `/resources` con la estructura completa de la base de datos.
+
 1. **Clonar repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/backend-spring-crud.git**
